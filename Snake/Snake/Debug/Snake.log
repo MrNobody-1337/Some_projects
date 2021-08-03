@@ -1,0 +1,4 @@
+﻿  Snake.cpp
+c:\users\admin\source\repos\snake\snake\snake.cpp(92): warning C4804: <: небезопасное использование типа "bool" в операции
+c:\users\admin\source\repos\snake\snake\snake.cpp(128): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Snake.vcxproj -> C:\Users\Admin\source\repos\Snake\Debug\Snake.exe
